@@ -75,7 +75,9 @@ CB.EN.U4CSE22441 INDIRA SATYA SAI
 **19CSE303 Embedded Systems**
 
 **Department of Computer Science and Engineering**
+
 **Amrita School of Computing**
+
 **Amrita Vishwa Vidyapeetham, Coimbatore, India**
 
 ---------------------------------------------------------------------------------------------------------------------------------------------

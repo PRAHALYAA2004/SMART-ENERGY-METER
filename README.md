@@ -13,9 +13,9 @@ Create a system that:
 ### Key Features
 1. **Real-Time Power Measurement**: Continuously calculates power consumption based on voltage and current readings.
 2. **Energy Usage Calculation**: Tracks cumulative energy consumption over time, displayed in watt-hours or kilowatt-hours.
-3. **Precision Sensing**: Utilizes voltage and current sensors (ZMPT100B, ACS712) for high accuracy.
+3. **Precision Sensing**: Utilizes voltage and current sensors (ZMPT101B, ACS712) for high accuracy.
 4. **LCD Display**: Shows real-time data, including voltage, current, and power consumption.
-5. **Automated Power Calculations**: Processes data to compute instantaneous power using \(P = V \times I\).
+5. **Automated Power Calculations**: Processes data to compute instantaneous power using (P = V * I).
 
 ### Applications
 - Household or industrial energy tracking for optimized power usage.
@@ -25,9 +25,9 @@ Create a system that:
 
 ## Hardware Components
 - **STM32F401CCU6 Microcontroller Board**
-- **Current Sensor (AC712 - Hall Effect)**: Measures current flowing through the AC line.
-- **Voltage Sensor ( ZMPT101B)**: Detects AC voltage levels.
-- **LCD Display (16*2 - Parallel)**: Displays real-time values.
+- **Current Sensor (ACS712 - Hall Effect)**: Measures current flowing through the AC line.
+- **Voltage Sensor (ZMPT101B)**: Detects AC voltage levels.
+- **LCD Display (16*2 - Parallel)**: Displays real-time values of AC voltage.
 - **Energy Meter IC**: Ensures accurate energy measurements.
 - **LED**: For visual power alerts.
 - **ST-Link**: For programming and debugging.

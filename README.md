@@ -58,9 +58,6 @@ Create a system that:
 - More advanced data logging and historical analysis.
 - Mobile application interface for user-friendly monitoring.
 
-## License
-This project is open-source and available for use under the MIT License.
-
 
 **Project by**
 
@@ -79,5 +76,13 @@ CB.EN.U4CSE22441 INDIRA SATYA SAI
 **Amrita School of Computing**
 
 **Amrita Vishwa Vidyapeetham, Coimbatore, India**
+
+
+
+
+## License
+This project is open-source and available for use under the MIT License. 
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------

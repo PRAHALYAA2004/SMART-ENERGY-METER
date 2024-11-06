@@ -59,6 +59,16 @@ Create a system that:
 - Mobile application interface for user-friendly monitoring.
 
 ## License
-This project is open-source and available for use under the MIT License. 
+This project is open-source and available for use under the MIT License.
+
+CB.EN.U4CSE22430 PRIYADARSHINI RAJESH
+CB.EN.U4CSE22431 TRISHIKA REDDY
+CB.EN.U4CSE22432 PRAHALYAA A
+CB.EN.U4CSE22441 INDIRA SATYA SAI
+**19CSE303 Embedded Systems**
+Department of Computer Science and Engineering    
+Amrita School of Computing, 
+Amrita Vishwa Vidyapeetham, Coimbatore, India.
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
